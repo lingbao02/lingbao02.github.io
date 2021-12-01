@@ -1,0 +1,125 @@
+@charset "utf-8";
+#style-2 {
+}
+#top {
+	background-color: #CCCCCC;
+	height: 70px;
+	width: 1500px;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#logo {
+	float: left;
+	height: 70px;
+	width: 75px;
+}
+#banner {
+	width: 1500px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	height: 460px;
+}
+#dbt {
+	height: 58px;
+	width: 1498px;
+	border: 1px solid #000;
+	line-height: 60px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	float: none;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#gk {
+	height: 79px;
+	width: 1498px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #000;
+	border-left-color: #000;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#nr {
+	height: 663px;
+	width: 1500px;
+	float: left;
+}
+.nr-1 {
+	height: 663px;
+	width: 214px;
+	float: left;
+	text-align: center;
+}
+#bg-2 {
+	height: 349px;
+	width: 213px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 350px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#bg-3 {
+	height: 213px;
+	width: 213px;
+	line-height: 200px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #000;
+}
+
+
+
+.bg-1 {
+	height: 48px;
+	width: 212px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	border: 1px solid #000;
+}
+
+
+p {
+	text-indent: 2em;
+	vertical-align: middle;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	line-height: normal;
+}
+#fh{
+	height: 50px;
+	width: 1500px;
+	float: left;
+}
+#yw {
+	height: 50px;
+	width: 1500px;
+	line-height: 50px;
+	background-color: #CCCCCC;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	float: left;
+	text-align: center;
+}
